@@ -12,15 +12,19 @@
 
 💻 Previous Experience: Trainee Consultant at Systems Limited, Front-End Developer at Falcon IT Consulting
 
-#### 🛠️ Skills
+### 🛠️ **Skills**
 
-Frontend: React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Ant Design, MUI
+- **Frontend Development:**  
+  - React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Ant Design, MUI  
 
-Tools & Platforms: Docker, Git & GitHub, VS Code, Microsoft Azure, Firebase
+- **Tools & Platforms:**  
+  - Docker, Git & GitHub, VS Code, Microsoft Azure, Firebase  
 
-Databases: MongoDB, PostgreSQL
+- **Databases:**  
+  - MongoDB, PostgreSQL  
 
-Others: CCNA, Networking (Routers, VLANs, OSPF)
+- **Others:**  
+  - CCNA, Networking (Routers, VLANs, OSPF)
 
 #### 📫 Get in Touch
 
