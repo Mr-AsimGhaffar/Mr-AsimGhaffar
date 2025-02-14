@@ -14,13 +14,69 @@
 
 🛠️ Skills
 
-Frontend: React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Ant Design, MUI
 
-Tools & Platforms: Docker, Git & GitHub, VS Code, Microsoft Azure, Firebase
 
-Databases: MongoDB, PostgreSQL
 
-Others: CCNA, Networking (Routers, VLANs, OSPF)
+
+
+
+
+
+
+
+
+
+Skills Details
+
+
+
+React.js 
+
+Building interactive UIs with component-based architecture.
+
+
+
+Next.js 
+
+Server-side rendering, static site generation, and API routes.
+
+
+
+JavaScript 
+
+Writing clean and efficient JavaScript code with ES6+ features.
+
+
+
+TypeScript 
+
+Strongly typed development for scalable applications.
+
+
+
+Tailwind CSS 
+
+Utility-first styling for modern web applications.
+
+
+
+Docker 
+
+Containerized development and deployment solutions.
+
+🏆 Projects
+
+Rider Pro
+
+A comprehensive Rent-A-Car platform with features for booking cars, ride sharing, and administrative management using Next.js, Tailwind CSS, Ant Design, and Docker.
+
+PartnerLinQ
+
+A digital supply chain connectivity solution by Visionet Systems Inc., developed using React.js, Microsoft Azure, Azure Cosmos DB, and Dynamics 365.
+
+Adzone
+
+An ads system allowing users to search nearby hotels, restaurants, and shops, built with React.js, JavaScript, HTML, and CSS.
 
 📫 Get in Touch
 
