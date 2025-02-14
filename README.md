@@ -22,20 +22,6 @@ Databases: MongoDB, PostgreSQL
 
 Others: CCNA, Networking (Routers, VLANs, OSPF)
 
-🏆 Projects
-
-Rider Pro
-
-A comprehensive Rent-A-Car platform with features for booking cars, ride sharing, and administrative management using Next.js, Tailwind CSS, Ant Design, and Docker.
-
-PartnerLinQ
-
-A digital supply chain connectivity solution by Visionet Systems Inc., developed using React.js, Microsoft Azure, Azure Cosmos DB, and Dynamics 365.
-
-Adzone
-
-An ads system allowing users to search nearby hotels, restaurants, and shops, built with React.js, JavaScript, HTML, and CSS.
-
 📫 Get in Touch
 
 Email: asim.ghaffar71@gmail.com
