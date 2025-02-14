@@ -1,6 +1,6 @@
-#Hi there, I'm Asim Ghaffar 👋
+### Hi there, I'm Asim Ghaffar 👋
 
-Dynamic and detail-oriented Software Engineer with a passion for crafting high-quality, scalable, and efficient software solutions. My expertise lies in React.js, Next.js, JavaScript, and TypeScript, with hands-on experience in Docker, Tailwind CSS, Ant Design, and cloud services like Microsoft Azure.
+# Dynamic and detail-oriented Software Engineer with a passion for crafting high-quality, scalable, and efficient software solutions. My expertise lies in React.js, Next.js, JavaScript, and TypeScript, with hands-on experience in Docker, Tailwind CSS, Ant Design, and cloud services like Microsoft Azure.
 
 🚀 About Me
 
