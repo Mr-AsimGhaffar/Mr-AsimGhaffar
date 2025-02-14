@@ -2,7 +2,7 @@
 
 ### Dynamic and detail-oriented Software Engineer with a passion for crafting high-quality, scalable, and efficient software solutions. My expertise lies in React.js, Next.js, JavaScript, and TypeScript, with hands-on experience in Docker, Tailwind CSS, Ant Design, and cloud services like Microsoft Azure.
 
-🚀 About Me
+#### 🚀 About Me
 
 📍 Location: Islamabad, Pakistan
 
@@ -12,79 +12,23 @@
 
 💻 Previous Experience: Trainee Consultant at Systems Limited, Front-End Developer at Falcon IT Consulting
 
-🛠️ Skills
+#### 🛠️ Skills
 
+Frontend: React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Ant Design, MUI
 
+Tools & Platforms: Docker, Git & GitHub, VS Code, Microsoft Azure, Firebase
 
+Databases: MongoDB, PostgreSQL
 
+Others: CCNA, Networking (Routers, VLANs, OSPF)
 
-
-
-
-
-
-
-
-
-Skills Details
-
-
-
-React.js 
-
-Building interactive UIs with component-based architecture.
-
-
-
-Next.js 
-
-Server-side rendering, static site generation, and API routes.
-
-
-
-JavaScript 
-
-Writing clean and efficient JavaScript code with ES6+ features.
-
-
-
-TypeScript 
-
-Strongly typed development for scalable applications.
-
-
-
-Tailwind CSS 
-
-Utility-first styling for modern web applications.
-
-
-
-Docker 
-
-Containerized development and deployment solutions.
-
-🏆 Projects
-
-Rider Pro
-
-A comprehensive Rent-A-Car platform with features for booking cars, ride sharing, and administrative management using Next.js, Tailwind CSS, Ant Design, and Docker.
-
-PartnerLinQ
-
-A digital supply chain connectivity solution by Visionet Systems Inc., developed using React.js, Microsoft Azure, Azure Cosmos DB, and Dynamics 365.
-
-Adzone
-
-An ads system allowing users to search nearby hotels, restaurants, and shops, built with React.js, JavaScript, HTML, and CSS.
-
-📫 Get in Touch
+#### 📫 Get in Touch
 
 Email: asim.ghaffar71@gmail.com
 
-LinkedIn: Asim Ghaffar
+LinkedIn: https://www.linkedin.com/in/asim-ghaffar-4a60921b1/
 
-GitHub: asimghaffar
+GitHub: https://github.com/Mr-AsimGhaffar
 
 Let's build something amazing together! 🚀
 
